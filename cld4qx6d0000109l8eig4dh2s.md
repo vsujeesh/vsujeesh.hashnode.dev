@@ -1,4 +1,11 @@
-# Git-ting Started
+---
+title: Git-ting Started
+datePublished: Fri Jan 20 2023 16:38:18 GMT+0000 (Coordinated Universal Time)
+cuid: cld4qx6d0000109l8eig4dh2s
+slug: git-ting-started
+tags: git, technical-articles
+
+---
 
 Git is one of those tools that we take for granted when writing software. Here are some basic commands to get you started on your journey as a programmer.
 
